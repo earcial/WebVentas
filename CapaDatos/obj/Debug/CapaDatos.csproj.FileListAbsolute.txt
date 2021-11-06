@@ -1,0 +1,146 @@
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaDatos\bin\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaDatos\obj\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaDatos\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaDatos\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\010_VENTAS_WEB_Proyecto\CapaDatos\bin\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\010_VENTAS_WEB_Proyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\010_VENTAS_WEB_Proyecto\CapaDatos\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\010_VENTAS_WEB_Proyecto\CapaDatos\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\010_VENTAS_WEB_Proyecto\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\010_VENTAS_WEB_Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\010_VENTAS_WEB_Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\010_VENTAS_WEB_Proyecto\CapaDatos\obj\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\010_VENTAS_WEB_Proyecto\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\U\Semestre X\ProyectoII\Fuentes\010_VENTAS_WEB_Proyecto\CapaDatos\bin\Debug\CapaDatos.dll
+C:\U\Semestre X\ProyectoII\Fuentes\010_VENTAS_WEB_Proyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\U\Semestre X\ProyectoII\Fuentes\010_VENTAS_WEB_Proyecto\CapaDatos\bin\Debug\CapaModelo.dll
+C:\U\Semestre X\ProyectoII\Fuentes\010_VENTAS_WEB_Proyecto\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\U\Semestre X\ProyectoII\Fuentes\010_VENTAS_WEB_Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\U\Semestre X\ProyectoII\Fuentes\010_VENTAS_WEB_Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\U\Semestre X\ProyectoII\Fuentes\010_VENTAS_WEB_Proyecto\CapaDatos\obj\Debug\CapaDatos.dll
+C:\U\Semestre X\ProyectoII\Fuentes\010_VENTAS_WEB_Proyecto\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\CapaModelo.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\csc.exe
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\csc.exe.config
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\csc.rsp
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\csi.exe
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\csi.exe.config
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\csi.rsp
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\Microsoft.Managed.Core.targets
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.AppContext.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.Console.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.Globalization.Calendars.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.IO.Compression.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.IO.Compression.ZipFile.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.Net.Http.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.Net.Sockets.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.ValueTuple.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.Xml.XPath.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\vbc.exe
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\vbc.exe.config
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\vbc.rsp
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\VBCSCompiler.exe
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\U\Semestre X\ProyectoII\Fuentes\Adecuacion WebVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\CapaDatos.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\csc.exe
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\csc.exe.config
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\csc.rsp
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\csi.exe
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\csi.exe.config
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\csi.rsp
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\Microsoft.Managed.Core.targets
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.AppContext.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.Console.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.Globalization.Calendars.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.IO.Compression.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.IO.Compression.ZipFile.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.Net.Http.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.Net.Sockets.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.ValueTuple.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.Xml.XPath.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\vbc.exe
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\vbc.exe.config
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\vbc.rsp
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\VBCSCompiler.exe
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\CapaModelo.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\obj\Debug\CapaDatos.dll
+C:\U\Semestre X\ProyectoII\Fuentes\WebVentas Sitio\CapaDatos\obj\Debug\CapaDatos.pdb
